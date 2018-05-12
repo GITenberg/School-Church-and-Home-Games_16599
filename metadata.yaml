@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6814
 description: Games for schools -- Sociable games for home, church, clubs, etc. --
   Outdoor games -- Games for special occasions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16599#School-Church-and-Home-Games
 gutenberg_issued: '2005-08-26'
 gutenberg_type: Text
 identifiers:
